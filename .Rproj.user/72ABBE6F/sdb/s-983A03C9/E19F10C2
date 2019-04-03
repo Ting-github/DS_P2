@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "print(\"Inital code\")",
+    "created" : 1554314874810.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "663630747",
+    "id" : "E19F10C2",
+    "lastKnownWriteTime" : 1554314914,
+    "last_content_update" : 1554314914384,
+    "path" : "~/Desktop/coursera/Data Science/DS_P2/Script/testing.R",
+    "project_path" : "Script/testing.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
